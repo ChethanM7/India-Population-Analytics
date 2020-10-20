@@ -4,7 +4,7 @@ from itertools import groupby
 pop=pd.read_csv("D:\Academics\SEM 5\Data Analytics\Project\India census 2011\india-districts-census-2011.csv")
 
 
-#Female population vs Female literacy rate
+#Female population vs Female literacy rate in india
 a=(pop['Female'].groupby(pop['State name'])).sum()
 b=(pop['Female_Literate'].groupby(pop['State name'])).sum()
 
