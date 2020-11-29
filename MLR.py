@@ -4,7 +4,7 @@ importing libraries
 
 import pandas as pd
 #import numpy as np
-#import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 
 '''
 reading and splitting the dataset
@@ -33,6 +33,8 @@ predicting the Literacy Rate using the MLR model built above
 y_pred=regressor.predict(x_test)
 print(y_pred)
 print(y_test)
+
+
 #print(np.concatenate(y_pred.reshape(len(y_pred),1),y_test.reshape(len(y_test),1)),axis=1)
 '''
 Model Evaluation
