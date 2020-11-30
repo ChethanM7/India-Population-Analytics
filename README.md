@@ -8,10 +8,7 @@
 
 ### DistrictCensus.csv
 	csv file containing the district census
-### HousingCensus.csv
-	csv file containing the houseing census
-### ColNames.csv
-	csv file contains the explanations for each columns used in the dataset
+
 ### LiteracyRate.csv
 	derived csv file used for model building
 
