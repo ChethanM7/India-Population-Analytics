@@ -1,4 +1,4 @@
-# India Litercay rate analytics using India population dataset
+# India Literacy rate analytics using India population dataset
 
 ## ProjectGuidelines.pdf
 	pdf file with details about how to and what to include in the project (issued by the faculty)
